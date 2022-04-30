@@ -182,8 +182,7 @@ saveetha_nearby_locations = Map(
      ('Mgrnagar', 'Saidapet'): 5, ('Tnagar', 'Saidapet'):  4, ('Tnagar', 'Teynampet'): 5, ('Mgrnagar', 'Ramapuram'): 4, ('Ramapuram', 'Chennaiairport'): 13, 
      ('Teynampet', 'Nandanam'): 2, ('Saidapet', 'Littlemount'):  1, ('Nandanam', 'Alwarpet'): 2, ('Littlemount', 'Kotturpuram'):3, ('Nandanam', 'Kotturpuram'):  3, 
      ('Littlemount', 'Guindy'):  1, ('Alwarpet', 'Santhome'):  5, ('Alwarpet', 'Gandhinagar'):  2, ('Kotturpuram', 'Gandhinagar'):  3, ('Kotturpuram', 'Guindy'):  4, 
-     ('Chennaiairport', 'Jeevannagar'):  5, ('Guindy', 'Velacherry'):  6, ('Velacherry', 'Jeevannagar'):  4,  ('Velacherry', 'Ramnagar'):  5, ('Gandhinagar', 'Adyar'):  1,
-     ('Adyar', 'Ellitosbeach'):  1,})
+     ('Chennaiairport', 'Jeevannagar'):  5, ('Guindy', 'Velacherry'):  6, ('Velacherry', 'Jeevannagar'):  4,  ('Velacherry', 'Ramnagar'):  5, ('Gandhinagar', 'Adyar'):       1,('Adyar', 'Ellitosbeach'):  1,})
 
 
 r0 = RouteProblem('Ashoknagar', 'Kotturpuram', map=saveetha_nearby_locations)
